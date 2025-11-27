@@ -1,6 +1,5 @@
 <!doctype html>
 <html>
-  <body>
-    <p>This is a blank webpage.</p>
-  </body>
+  <head><meta charset="utf-8"><title>FastDL</title></head>
+  <body><h1>FastDL ativo</h1></body>
 </html>
